@@ -1,0 +1,19 @@
+body
+{
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.row
+{
+  margin-top:10px;
+  margin-bottom:10px;
+}
+.imgMarginB
+{
+  margin-bottom:10px;
+}
+.verticalAlign
+{
+  display:flex;
+  height:300px;
+}
