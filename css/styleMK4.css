@@ -1,0 +1,67 @@
+body
+{
+  background-color:#CFEC9D;
+}
+#navBar .navbar
+{
+  background-color:#324F00;
+  margin-bottom:0;
+  border-radius:0;
+  border:none;
+}
+#navBar .dropdown-menu
+{
+  background-color:#324F00;
+}
+#navBar .dropdown-menu a:hover
+{
+  background-color:#527614;
+}
+#navBar .dropdown a:visited
+{
+  background-color:#527614;
+}
+#navBar .navbar a
+{
+  color:white;
+}
+#title
+{
+  background-color:#A0C562;
+}
+#title h1
+{
+  margin:0;
+  padding:0 0 0 20px;
+  line-height:60px;
+}
+#columnLeft
+{
+  background-color:#527614;
+  padding-left:40px;
+  padding-right:40px;
+}
+h2
+{
+  background-color:#A0C562;
+  border-radius:8px;
+  padding:8px;
+}
+#content form div:first-child
+{
+  border-radius:5px 0 0 5px;
+}
+#content form div:last-child
+{
+  border-radius:0 5px 5px 0;
+}
+#content form div
+{
+  margin-top:10px;
+  margin-bottom:10px;
+  padding-top:5px;
+  background-color:#324F00;
+  line-height:35px;
+  height:45px;
+  color:white;
+}

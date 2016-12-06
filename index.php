@@ -13,6 +13,8 @@
         <ul class="nav nav-tabs navbar-collapse">
           <li role="menu" class="active"><a href="index.php">Accueil</a></li>
           <li role="menu"><a href="page/page2.php">Page 2</a></li>
+          <li role="menu"><a href="page/page3.php">Page 3</a></li>
+          <li role="menu"><a href="page/page4.php">Page 4</a></li>
         </ul>
       </nav>
       <div class="row text-center">

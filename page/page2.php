@@ -12,18 +12,20 @@
       <nav class="navbar navbar-default navbar-inverse">
         <div class="container-fluid">
           <div class="navbar-header">
-  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-    <span class="sr-only">Toggle navigation</span>
-    <span class="icon-bar"></span>
-    <span class="icon-bar"></span>
-    <span class="icon-bar"></span>
-  </button>
-  <a class="navbar-brand" href="#">Brand</a>
-</div>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Brand</a>
+          </div>
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
               <li><a href="../index.php">Accueil</a></li>
               <li class="active"><a href="page2.php">Page 2 <span class="sr-only">(current)</span></a></li>
+              <li><a href="page3.php">Page 3</a></li>
+              <li><a href="page4.php">Page 4</a></li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menu déroulant <span class="caret"></span></a>
                 <ul class="dropdown-menu">
@@ -142,7 +144,7 @@
       <div class="container text-center">
         <span class="glyphicon glyphicon-music"></span>
         <span class="glyphicon glyphicon-cloud"></span>
-        <p class="text-muted text-center">Tous droits réservés</p>
+        <p class="text-muted text-center">© Tous droits réservés</p>
       </div>
     </footer>
     <script type="text/javascript" src="../js/bootstrap.min.js"></script>

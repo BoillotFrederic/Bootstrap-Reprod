@@ -17,3 +17,103 @@ body
   display:flex;
   height:300px;
 }
+#navBar .navbar img
+{
+  width:50px;
+  height:50px;
+  margin-left:30px;
+}
+#navBar .navbar
+{
+  background-color:#3B5998;
+  border-radius:10px;
+}
+#navBar .navbar .active a
+{
+  background-color:#2B4988 !important;
+}
+#navBar .navbar a
+{
+  color:#FFFFFF !important;
+}
+#navBar .dropdown-menu
+{
+  background-color:#3B5998;
+}
+#navBar .dropdown-menu a:hover, .dropdown a:visited
+{
+  background-color:#2B4988 !important;
+}
+.containerBg
+{
+  background-color:#DBE5E6;
+  margin-left:20px;
+  margin-right:20px;
+  border-radius:10px;
+}
+.sectionBg
+{
+  background-color:#BBC5C6;
+  margin-top:20px;
+  margin-bottom:20px;
+  padding:10px;
+  border-radius:5px;
+}
+#profilContain
+{
+  background-color:white;
+  margin:20px;
+  padding:10px;
+  border-radius:5px;
+}
+#profilContain div:first-child div:first-child div div
+{
+  height:400px;
+  background-color:black;
+  margin:auto auto 10px auto;
+}
+#profilContain #nameCenter
+{
+  height:400px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+}
+#imgMain
+{
+  width:100%;
+  margin-top:20px;
+}
+#copyright
+{
+  margin-top:30px;
+  background-color:#BBC5C6;
+  font-size:1.2em;
+  height:100px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+}
+.social
+{
+  display:inline-block;
+  width:30px;
+  height:30px;
+  background-size:contain;
+}
+.social-facebook
+{
+  background-image:url('../imgs/glyphicons-social/png/glyphicons-social-31-facebook.png');
+}
+.social-google-plus
+{
+  background-image:url('../imgs/glyphicons-social/png/glyphicons-social-3-google-plus.png');
+}
+.social-twitter
+{
+  background-image:url('../imgs/glyphicons-social/png/glyphicons-social-32-twitter.png');
+}
+p
+{
+  overflow-wrap:break-word;
+}
